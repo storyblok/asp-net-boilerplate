@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is no longer maintained.
+
 # Storyblok boilerplate for ASP.NET Core MVC
 
 This is a boilerplate to create an [ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc) project with [Storyblok](https://www.storyblok.com/) by using the SDK [Adliance.Storyblok](https://github.com/adliance/Storyblok).
